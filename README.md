@@ -18,7 +18,7 @@
 ![message](docs/screenshots/customer_message.png)
 
 **SHAP 기반 예측 설명**
-![shap](docs/SHAP.png)
+![shap](docs/screenshots/SHAP.png)
 
 **What-if 시뮬레이터**
 ![whatif](docs/screenshots/whatif_simulator.png)
@@ -184,6 +184,8 @@ churn/
 │   └── kkbox_churn_model.pkl       # 최종 학습된 파이프라인
 ├── samples/
 │   └── sample_batch_customers.csv  # 배치 예측 테스트용 샘플
+├── docs/
+│   └── screenshots/                # README 데모 스크린샷
 └── requirements.txt                # 노트북 실행용
 ```
 
