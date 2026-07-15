@@ -9,22 +9,25 @@
 ## 데모 스크린샷
 
 **개별 고객 조회**
-![overview](docs/screenshots/01_overview.png)
+![overview](docs/screenshots/overview.png)
 
 **위험도 게이지 + 고객 프로필 비교**
-![gauge](docs/screenshots/02_prediction_gauge.png)
+![gauge](docs/screenshots/prediction_gauge.png)
 
 **추천 리텐션 액션 + 고객이 실제로 받게 될 화면**
-![message](docs/screenshots/04_customer_message_shap.png)
+![message](docs/screenshots/customer_message.png)
+
+**SHAP 기반 예측 설명**
+![shap](docs/SHAP.png)
 
 **What-if 시뮬레이터**
-![whatif](docs/screenshots/07_whatif_simulator.png)
+![whatif](docs/screenshots/whatif_simulator.png)
 
 **CSV 일괄 예측 - 전체 현황**
-![batch](docs/screenshots/05_batch_overview.png)
+![batch](docs/screenshots/batch_overview.png)
 
 **도시 × 가입경로별 평균 이탈확률 히트맵**
-![heatmap](docs/screenshots/06_batch_heatmap.png)
+![heatmap](docs/screenshots/batch_heatmap.png)
 
 <br>
 
