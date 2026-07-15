@@ -1,0 +1,16 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Backend (FastAPI)",
+            "type": "shell",
+            "command": "${workspaceFolder}\\myvenv\\Scripts\\uvicorn.exe",
+            "args": ["main:app", "--reload", "--port", "8000"],
+            "options": { "cwd": "${workspaceFolder}\\backend" },
+            "isBackground": true,
+            "runOptions": { "runOn": "folderOpen" },
+            "presentation": { "panel": "dedicated", "group": "servers", "reveal": "silent" },
+            "problemMatcher": []
+        }
+    ]
+}

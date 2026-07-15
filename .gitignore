@@ -1,0 +1,17 @@
+# Data (Kaggle 원본/가공 데이터 - 용량이 커서 저장소에는 포함하지 않음, README 참고)
+data/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environment
+myvenv/
+
+# Streamlit
+frontend/.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
